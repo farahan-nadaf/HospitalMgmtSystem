@@ -33,7 +33,7 @@ Hospital-Management-System/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/farahan-nadaf/hospital-management-system.git
 cd hospital-management-system
 
 2️⃣ Setup MySQL Database
